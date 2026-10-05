@@ -1,18 +1,19 @@
-###### Chameleonicity Beyond Compactness: Conformational Persistence and Passive Permeability Across 20 PROTAC Ensembles #########
-###### Farzaneh Jalalypour, Rocío Mercado #########
-See also: https://zenodo.org/uploads/22035338
+# Chameleonicity Beyond Compactness: Conformational Persistence and Passive Permeability Across 20 PROTAC Ensembles 
+🟣 Farzaneh Jalalypour, Rocío Mercado  
+🟣 Data Science and AI Division, Department of Computer Science and Engineering, Chalmers University of Technology & University of Gothenburg, Gothenburg, Sweden
+> See also: https://zenodo.org/uploads/22035338
 
 # Analysis Notebooks and Simulation Files
 
 This repository contains the notebooks, scripts, and example data used to calculate molecular descriptors, analyze Moltiverse-generated conformational ensembles, and examine molecular dynamics simulations.
 
-## Descriptor Calculation
+> ## 0. Descriptor Calculation
 
 ### `descriptor_H_calculation.ipynb`
 
 Calculates the molecular descriptors reported in **Table 1** and used to generate **Figure 1**.
 
-## 1. Moltiverse Run Example
+> ## 1. Moltiverse Run Example
 
 Folder: `1_MV_run_example/`
 
@@ -20,7 +21,7 @@ Folder: `1_MV_run_example/`
 
 Shell script for running Moltiverse using molecular structures provided in the `smile.smi` input file.
 
-## 2. Moltiverse Analysis Example
+> ## 2. Moltiverse Analysis Example
 
 Folder: `2_MV_analysis_run_example/`
 
@@ -28,7 +29,7 @@ Folder: `2_MV_analysis_run_example/`
 
 Analyzes the Moltiverse output file `protac1_qm.sdf`. The results from this notebook were used to generate **Figures 2 and 3**.
 
-## 3. Molecular Dynamics Simulation Analysis
+> ## 3. Molecular Dynamics Simulation Analysis
 
 Folder: `simulation/`
 
