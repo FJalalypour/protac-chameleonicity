@@ -1,5 +1,6 @@
 ###### Chameleonicity Beyond Compactness: Conformational Persistence and Passive Permeability Across 20 PROTAC Ensembles #########
 ###### Farzaneh Jalalypour, Rocío Mercado #########
+See also: https://zenodo.org/uploads/22035338
 
 # Analysis Notebooks and Simulation Files
 
